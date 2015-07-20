@@ -1,0 +1,5 @@
+suites:
+    bonsi_suite:
+        namespace: Bonsi
+        src_path: src
+        spec_prefix: spec

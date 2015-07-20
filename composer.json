@@ -1,0 +1,23 @@
+{
+    "name": "bonsi/workalongsPresenters",
+    "description": "LaracastsWorkalong",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ivo Bons",
+            "email": "ivo.bons@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0"
+    },
+    "require-dev": {
+        "phpspec/phpspec": "^2.2",
+        "mockery/mockery": "^0.9.4"
+    },
+    "autoload": {
+        "psr-0": {
+            "Bonsi\\Workalongs\\Presenters": "src/"
+        }
+    }
+}
