@@ -1,6 +1,6 @@
 {
-    "name": "bonsi/workalongsPresenters",
-    "description": "LaracastsWorkalong",
+    "name": "bonsi/workalong-presenters",
+    "description": "Workalong Laracasts Presenters",
     "license": "MIT",
     "authors": [
         {
